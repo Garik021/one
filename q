@@ -1,6 +1,6 @@
 <html>
   <head>
-<link rel="stylesheet" href=
+<link rel="stylesheet" href=https://github.com/Garik021/one/edit/main/w">
     <title>Полезная информация</title>
     <link rel="stylesheet" href="style.css"/>
   </head>
