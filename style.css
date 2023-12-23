@@ -22,3 +22,9 @@ footer {
 li{
     background-color: rgb(0, 255, 98);
 }
+.qwerty {
+        display: flex;
+        margin: 0 auto;
+        justify-content:center ;
+
+}
